@@ -1,1 +1,1 @@
-# Sales-Data-Analysis
+# Chocolate Company Sales & Operations Dashboard (Power BI)
