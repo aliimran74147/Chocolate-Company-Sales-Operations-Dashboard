@@ -9,8 +9,10 @@ Used Power Query Editor to clean and prepare raw data. Handled inconsistencies, 
 Exploratory Analysis (EDA):
 Used Pivot Tables & Charts to gain initial insights before building the report.
 
-📊 Report Features
+<img width="12000" height="6812" alt="Choclate Company Data Dashboard-01" src="https://github.com/user-attachments/assets/811d75d0-a8ae-4a06-a286-0a17df5c15c3" />
 
+
+📊 Report Features
 Key KPIs (with MTD & MoM tracking):
 
 	-> Total Sales, Total Boxes, Total Shipments, Total Cost, Total Profit, Measure Selector Line Graph
