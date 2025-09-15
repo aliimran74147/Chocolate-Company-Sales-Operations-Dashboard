@@ -4,10 +4,15 @@ This project showcases an end-to-end data analysis workflow for a chocolate manu
 🔧 Process
 
 Data Cleaning & Transformation:
-Used Power Query Editor to clean and prepare raw data. Handled inconsistencies, removed duplicates, and standardized fields for accurate reporting.
 
 Exploratory Analysis (EDA):
-Used Pivot Tables & Charts to gain initial insights before building the report.
+Used **Excel Pivot Tables & Charts** to gain initial insights before building the report.
+
+Data Cleaning & Transformation:
+Used **Power Bi Power Query Editor** to clean and prepare raw data. Handled inconsistencies, removed duplicates, and standardized fields for accurate reporting.
+
+Data Visualization:
+Developed impactful dashboards using **Power BI Data Modeling & Reporting**, leveraging **DAX** for advanced calculations and queries to uncover deeper insights.
 
 <img width="12000" height="6812" alt="Choclate Company Data Dashboard-01" src="https://github.com/user-attachments/assets/811d75d0-a8ae-4a06-a286-0a17df5c15c3" />
 
